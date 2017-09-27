@@ -1,1 +1,1 @@
-All rights reserved.
+All rights reserved. Without written permission, these are not to be reused, redistributed, or adaptated, except by members of the Monarch Initiative Consortium, Gene Ontology Consortium, Sanford Health, and Genome.One, National Institutes of Health NCATS staff, NCATS awardees such as those in the BioMedical Translator consortium, CD2H Consortium. If you are interested in using, redistributing, or adapting and you are not covered in the above named groups, please issue a ticket or contact info@monarchinitiative.org.
